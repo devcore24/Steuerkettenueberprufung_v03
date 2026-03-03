@@ -23,6 +23,6 @@ ___________________________
 
 Screenshot:
 
-![Steuerungsscreenshot](/img/screenshot.jpg?raw=true "")
+![Steuerungsscreenshot](/img/screenshot.jpg "Software Userinterface")
 
 
